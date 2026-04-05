@@ -3,7 +3,7 @@
 
 
 
-I have profound interest in information technology, specificaally in Network and Security, and am dedicated to solving complex problems.
+I have profound interest in information technology, specificaally in Network Security, and I am dedicated to solving complex problems.
 
 ## Objective
 
