@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Operations Infrastructure Setup        | <a href="https://github.com/petedian/Security-Home-Lab">Infrastructure Design</a>|
+| Security Operations Home Lab Setup            | <a href="https://github.com/petedian/Security-Home-Lab">Infrastructure Design</a>|
 | SIEM Implementation and Log Analysis          | Coming Soon |
 | Network Traffic Monitoring and Attack Detection | Coming Soon |
 | Security Automation with Shuffle SOAR         | Coming Soon |
