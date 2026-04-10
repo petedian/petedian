@@ -16,12 +16,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Operations Infrastructure Setup        | <a href="https://github.com/petedian/Security-Home-Lab">Infrastructure Design</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/petedian/Security-Home-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | Coming Soon |
+| Network Traffic Monitoring and Attack Detection | Coming Soon |
+| Security Automation with Shuffle SOAR         | Coming Soon |
+| Incident Response Planning and Execution      | Coming Soon |
+| Case Management with TheHive                  | Coming Soon |
+| Scripting and Automation for Threat Mitigation | Coming Soon |
 
 ## Tools
 
@@ -56,6 +56,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
--Infrastructure Design
+-<a href="https://github.com/petedian/Security-Home-Lab">Infrastructure Design</a>
 - Detection Lab
 - SOC Automation Project
