@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for doing persona
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Operations Home Lab Setup            | <a href="https://github.com/petedian/Security-Home-Lab">Infrastructure Design</a>|
-| Gex Dashboard for Trading                     | <a href="https://github.com/petedian/gexdashboard">Dealer Positioning Gamma Dashboard</>|
+| Gex Dashboard for Trading                     | <a href="https://github.com/petedian/gexdashboard">Dealer Positioning Gamma Dashboard</a>|
 | CCNA Projects                                 | Coming Soon |
 
 
