@@ -8,7 +8,7 @@ I have profound interest in Network Information Technology, and the financial te
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for doing personal projects, in home labs, and also AI Prompt Engineeered Financial Applications for self efficiency and deciion making.  I love IT world!
+My journey in computer science has led me to develop a passion for doing personal projects, in home labs, and also AI Prompt Engineeered Financial Applications for self efficiency and decision making.  
 
 ## Skills
 
