@@ -8,7 +8,13 @@ I have profound interest in Network Information Technology, and the financial te
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for doing personal projects, in home labs, and also AI Prompt Engineeered Financial Applications for self efficiency and decision making.  
+Computer Science enthusiast focused on practical, hands-on lab development, AI-assisted financial automation, and enterprise security operations.
+
+Security Operations & Engineering: Virtualized SOC home labs running pfSense routing, Active Directory domain management, Wazuh SIEM, and Velociraptor endpoint response.
+
+AI & Financial Tech: Prompt-engineered applications for market flow analysis, portfolio tracking, and automated decision-making.
+
+Core Focus: Continuous learning in threat hunting, incident response, SIEM tuning, and secure systems administration.
 
 ## Skills
 
