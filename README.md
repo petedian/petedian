@@ -3,7 +3,7 @@
 
 
 
-I have profound interest in information technology, and the financial tech space.
+I have profound interest in Network Information Technology, and the financial tech space.
 
 ## Objective
 
@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for doing persona
 |-----------------------------------------------|----------------------------|
 | Security Operations Home Lab Setup            | <a href="https://github.com/petedian/Security-Home-Lab">Infrastructure Design</a>|
 | Gex Dashboard for Trading                     | <a href="https://github.com/petedian/gexdashboard">Dealer Positioning Gamma Dashboard</a>|
-| CCNA Projects                                 | Coming Soon |
+| Security Lab Projects                                 | Coming Soon |
 
 
 
